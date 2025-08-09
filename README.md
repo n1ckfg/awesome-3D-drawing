@@ -25,10 +25,8 @@ TK
 - Sergio Orts-Escolano et al - 3D Colour Object Reconstruction Based on Growing Neural Gas (2014).
 - Tongjie Zhang and Ching Yee Suen - A Fast Parallel Algorithm for Thinning Digital Patterns (1984).
 
-### Drawing Interfaces
+### Drawing Interfaces and Related Graphics History
 - Steven Schkolne - 3D Interfaces for Spatial Construction (2004).
-
-### Drawing in Graphics History
 - Richard Shoup - SuperPaint: An Early Frame Buffer Graphics System (2001).
 - Golan Levin - Painterly Interfaces for Audiovisual Performance (2000).
 - Marc Levoy - A Color Animation System Based on the Multiplane Technique (1977).
