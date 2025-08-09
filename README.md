@@ -5,8 +5,11 @@ TK
 
 ## Papers
 ### 3D Drawing Techniques
+- Changwoon Choi et al - 3Doodle: Compact Abstraction of Objects with 3D Strokes (2024).
 - Nick Fox-Gieg - Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline (2024).
+- Yunfan Ye et al - NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-View Images (2023).
 - Caroline Chan et al - Learning to Generate Line Drawings That Convey Geometry and Semantics (2022).
+- Enrique Rosales et al - Adaptive General and Predictable VR Ribbon Brush (2021).
 - Emilie Yu - Interactive 3D Sketching in Virtual Reality (2020). 
 - Bastien Wailly and Adrien Bousseau - Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling (2019).
 
@@ -27,6 +30,11 @@ TK
 
 ### Drawing in Graphics History
 - Richard Shoup - SuperPaint: An Early Frame Buffer Graphics System (2001).
+- Golan Levin - Painterly Interfaces for Audiovisual Performance (2000).
 - Marc Levoy - A Color Animation System Based on the Multiplane Technique (1977).
 - Nestor Burtnyk and Marceli Wein - Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation (1976).
+
+### Related Datasets
+- Sebastian Koch et al - ABC: A Big CAD Model Dataset for Geometric Deep Learning (2019).
+
 
