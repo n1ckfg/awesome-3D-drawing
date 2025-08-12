@@ -4,16 +4,17 @@
 A curated list of 3D drawing papers and related resources.
 
 ## Papers
-### 3D Drawing Techniques
+### 3D Drawing Implementations
 - Changwoon Choi et al - <a href="https://arxiv.org/abs/2402.03690">3Doodle: Compact Abstraction of Objects with 3D Strokes</a> (2024). [<a href="https://github.com/changwoonchoi/3Doodle">code</a>]
 - Nick Fox-Gieg - <a href="https://doi.org/10.1145/3664221">Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline</a> (2024). [<a href="https://github.com/n1ckfg/latk_blender">code</a>]
 - Yunfan Ye et al - <a href="https://arxiv.org/abs/2303.07653">NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-View Images</a> (2023). [<a href="https://github.com/yunfan1202/NEF_code">code</a>]
 - Caroline Chan et al - <a href="https://arxiv.org/abs/2203.12691">Learning to Generate Line Drawings That Convey Geometry and Semantics</a> (2022). [<a href="https://github.com/carolineec/informative-drawings">code</a>]
 - Enrique Rosales et al - Adaptive General and Predictable VR Ribbon Brush (2021).
+- Emilie Yu et al - <a href="https://www-sop.inria.fr/reves/Basilic/2021/YASBS21/CASSIE_author_version.pdf">CASSIE: Curve and Surface Sketching in Immersive Environments</a> (2021). [<a href="https://github.com/V-Sekai/cassie/">code</a>]
 - Emilie Yu - Interactive 3D Sketching in Virtual Reality (2020). 
 - Bastien Wailly and Adrien Bousseau - Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling (2019).
 
-### Drawing and Analysis
+### 3D Drawing Techniques and Analysis
 - Aaron Hertzmann - Why Do Line Drawings Work? A Realism Hypothesis (2020).
 - Difan Liu et al - Neural Contours: Learning to Draw Lines from 3D Shapes (2020).
 - Mayra Barrera-Machuca et al - The Effect of Spatial Ability on Immersive 3D Drawing (2019).
