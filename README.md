@@ -5,10 +5,10 @@ TK
 
 ## Papers
 ### 3D Drawing Techniques
-- Changwoon Choi et al - 3Doodle: Compact Abstraction of Objects with 3D Strokes (2024).
-- Nick Fox-Gieg - Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline (2024).
-- Yunfan Ye et al - NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-View Images (2023).
-- Caroline Chan et al - Learning to Generate Line Drawings That Convey Geometry and Semantics (2022).
+- Changwoon Choi et al - <a href="https://arxiv.org/abs/2402.03690">3Doodle: Compact Abstraction of Objects with 3D Strokes</a> (2024). [<a href="https://github.com/changwoonchoi/3Doodle">code</a>]
+- Nick Fox-Gieg - <a href="https://doi.org/10.1145/3664221">Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline</a> (2024). [<a href="https://github.com/n1ckfg/latk_blender">code</a>]
+- Yunfan Ye et al - <a href="https://arxiv.org/abs/2303.07653">NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-View Images</a> (2023). [<a href="https://github.com/yunfan1202/NEF_code">code</a>]
+- Caroline Chan et al - <a href="https://arxiv.org/abs/2203.12691">Learning to Generate Line Drawings That Convey Geometry and Semantics</a> (2022). [<a href="https://github.com/carolineec/informative-drawings">code</a>]
 - Enrique Rosales et al - Adaptive General and Predictable VR Ribbon Brush (2021).
 - Emilie Yu - Interactive 3D Sketching in Virtual Reality (2020). 
 - Bastien Wailly and Adrien Bousseau - Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling (2019).
