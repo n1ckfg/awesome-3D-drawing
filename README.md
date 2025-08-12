@@ -14,8 +14,10 @@ A curated list of 3D drawing papers and related resources.
 - Emilie Yu et al - <a href="https://www-sop.inria.fr/reves/Basilic/2021/YASBS21/CASSIE_author_version.pdf">CASSIE: Curve and Surface Sketching in Immersive Environments</a> (2021). [<a href="https://gitlab.inria.fr/D3/cassie">code</a>]
 - Emilie Yu - Interactive 3D Sketching in Virtual Reality (2020). 
 - Bastien Wailly and Adrien Bousseau - Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling (2019).
+- Richard Liu et al - WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction (2025).
 
 ### Drawing Techniques and Analysis
+- Yuta Noma et al - Surface-Filling Curve Flows via Implicit Medial Axes (2024).
 - Yael Vinker et al - CLIPasso: Semantically-Aware Object Sketching (2022).
 - Kevin Frans et al - CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders (2021).
 - Aaron Hertzmann - Why Do Line Drawings Work? A Realism Hypothesis (2020).
