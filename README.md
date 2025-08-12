@@ -33,6 +33,8 @@ TK
 - Nestor Burtnyk and Marceli Wein - Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation (1976).
 
 ### Related Datasets
-- Sebastian Koch et al - ABC: A Big CAD Model Dataset for Geometric Deep Learning (2019).
+- Sebastian Koch et al - <a href="https://arxiv.org/abs/1812.06216">ABC: A Big CAD Model Dataset for Geometric Deep Learning</a> (2019). [<a href="https://deep-geometry.github.io/abc-dataset/">files</a>]
+- Nick Fox-Gieg - ABC-Draco (2024). [<a href="https://doi.org/10.5683/SP3/QGGXYJ">files</a>]
+- Nick Fox-Gieg - TiltSet: A Collection of 3D Drawings (2024). [<a href="https://doi.org/10.20383/103.0917">files</a>]
 
 
