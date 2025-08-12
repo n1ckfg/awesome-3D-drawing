@@ -16,6 +16,8 @@ A curated list of 3D drawing papers and related resources.
 - Bastien Wailly and Adrien Bousseau - Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling (2019).
 
 ### Drawing Techniques and Analysis
+- Yael Vinker et al - CLIPasso: Semantically-Aware Object Sketching (2022).
+- Kevin Frans et al - CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders (2021).
 - Aaron Hertzmann - Why Do Line Drawings Work? A Realism Hypothesis (2020).
 - Difan Liu et al - Neural Contours: Learning to Draw Lines from 3D Shapes (2020).
 - Mayra Barrera-Machuca et al - The Effect of Spatial Ability on Immersive 3D Drawing (2019).
