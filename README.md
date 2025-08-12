@@ -1,7 +1,7 @@
 # Awesome 3D Drawing
 
 ## Overview
-TK
+A curated list of 3D drawing papers and related resources.
 
 ## Papers
 ### 3D Drawing Techniques
