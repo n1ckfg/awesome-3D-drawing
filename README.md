@@ -58,9 +58,9 @@ A curated list of 3D drawing papers and related resources.
  
 ### Related Datasets
 - Nick Fox-Gieg - TiltSet: A Collection of 3D Drawings (2024). [<a href="https://doi.org/10.20383/103.0917">files</a>]
+- Nick Fox-Gieg - ABC-Draco (2024). [<a href="https://doi.org/10.5683/SP3/QGGXYJ">files</a>]
 - Ling Luo et al - <a href="https://www.computer.org/csdl/proceedings-article/3dv/2021/268800b003/1zWE3NZ5Apq">Fine-Grained VR Sketching: Dataset and Insights</a> (2021). [<a href="https://cvssp.org/data/VRChairSketch/">files</a>]
 - Maria Shugrina et al - <a href="https://www.cs.toronto.edu/creativeflow/files/2596.pdf">Creative Flow+ Dataset</a> (2019). [<a href="https://www.cs.toronto.edu/creativeflow/">files</a>]
 - Sebastian Koch et al - <a href="https://arxiv.org/abs/1812.06216">ABC: A Big CAD Model Dataset for Geometric Deep Learning</a> (2019). [<a href="https://deep-geometry.github.io/abc-dataset/">files</a>]
--- Nick Fox-Gieg - ABC-Draco (2024). [<a href="https://doi.org/10.5683/SP3/QGGXYJ">files</a>]
 
 
