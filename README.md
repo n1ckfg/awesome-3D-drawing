@@ -15,7 +15,10 @@ A curated list of 3D drawing papers and related resources.
 - Bastien Wailly and Adrien Bousseau - <a href="https://www-sop.inria.fr/reves/Basilic/2019/WB19b/bwailly_JFIGRV_2019.pdf">Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling</a> (2019). [<a href="https://gitlab.inria.fr/D3/contour-detect">code</a>]
 
 ### Drawing Techniques and Analysis
+- Zhi-Zheng Xiang et al - BrushGaussian Brushstroke-Based Stylization for 3D Gaussian Splatting (2025).
+- Hao Li et al - An Inverse Procedural Modeling Pipeline for Stylized Brush Stroke Rendering (2024).
 - Yuta Noma et al - Surface-Filling Curve Flows via Implicit Medial Axes (2024).
+- Richard Rodriguez et al - Artists' Perspectives on Natural Interactions for Virtual Reality 3D Sketching (2024).
 - Yael Vinker et al - CLIPasso: Semantically-Aware Object Sketching (2022).
 - Kevin Frans et al - CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders (2021).
 - Enrique Rosales et al - <a href="https://www.cs.ubc.ca/labs/imager/tr/2021/AdaptiBrush/">Adaptive General and Predictable VR Ribbon Brush</a> (2021).
@@ -30,16 +33,34 @@ A curated list of 3D drawing papers and related resources.
 - Sergio Orts-Escolano et al - 3D Colour Object Reconstruction Based on Growing Neural Gas (2014).
 - Tongjie Zhang and Ching Yee Suen - A Fast Parallel Algorithm for Thinning Digital Patterns (1984).
 
-### Drawing Interfaces and Related Graphics History
-- Steven Schkolne - 3D Interfaces for Spatial Construction (2004).
+### Related Graphics History
 - Richard Shoup - SuperPaint: An Early Frame Buffer Graphics System (2001).
-- Golan Levin - Painterly Interfaces for Audiovisual Performance (2000).
 - Marc Levoy - A Color Animation System Based on the Multiplane Technique (1977).
 - Nestor Burtnyk and Marceli Wein - Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation (1976).
 
+### Related Dissertation / Thesis
+- Nick Fox-Gieg - Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline (2025).
+- Emilie Yu - Designing Tools for 3D Content Authoring Based on 3D Sketching (2023).
+- Rahul Arora - Creative Visual Expression in Immersive 3D Environments (2021).
+- Maria Shugrina - The Design of Playful and Intelligent Creative Tools (2021).
+- Emilie Yu - Interactive 3D Sketching in Virtual Reality (2020).
+- Caroline Chan - First Principles of Line Drawings (2017).
+- Jennifer Jacobs - Dynamic Drawing: Broadening Practice and Participation in Procedural Art (2017).
+- Johannes Schmid - Methods for Artistic Stylization in 3D Animation (2012).
+- Alexander Kolliopoulos - Image Segmentation for Stylized Non-Photorealistic Rendering and Animation (2005).
+- Steven Schkolne - 3D Interfaces for Spatial Construction (2004).
+- Aaron Hertzmann - Algorithms for Rendering in Artistic Styles (2001).
+- Golan Levin - Painterly Interfaces for Audiovisual Performance (2000).
+- Rebecca Allen - Computer Rotoscoping with the Aid of Color Recognition (1980).
+- Ronald Baecker - Interactive Computer-Mediated Animation (1969). 
+- Thomas A. DeFanti - The Graphics Symbiosis System (1973).
+- Ivan Sutherland - Sketchpad: A Man-Machine Graphical Communication System (1963).
+ 
 ### Related Datasets
-- Sebastian Koch et al - <a href="https://arxiv.org/abs/1812.06216">ABC: A Big CAD Model Dataset for Geometric Deep Learning</a> (2019). [<a href="https://deep-geometry.github.io/abc-dataset/">files</a>]
-- Nick Fox-Gieg - ABC-Draco (2024). [<a href="https://doi.org/10.5683/SP3/QGGXYJ">files</a>]
 - Nick Fox-Gieg - TiltSet: A Collection of 3D Drawings (2024). [<a href="https://doi.org/10.20383/103.0917">files</a>]
+- Ling Luo et al - <a href="https://www.computer.org/csdl/proceedings-article/3dv/2021/268800b003/1zWE3NZ5Apq">Fine-Grained VR Sketching: Dataset and Insights</a> (2021). [<a href="https://cvssp.org/data/VRChairSketch/">files</a>]
+- Maria Shugrina et al - <a href="https://www.cs.toronto.edu/creativeflow/files/2596.pdf">Creative Flow+ Dataset</a> (2019). [<a href="https://www.cs.toronto.edu/creativeflow/">files</a>]
+- Sebastian Koch et al - <a href="https://arxiv.org/abs/1812.06216">ABC: A Big CAD Model Dataset for Geometric Deep Learning</a> (2019). [<a href="https://deep-geometry.github.io/abc-dataset/">files</a>]
+-- Nick Fox-Gieg - ABC-Draco (2024). [<a href="https://doi.org/10.5683/SP3/QGGXYJ">files</a>]
 
 
