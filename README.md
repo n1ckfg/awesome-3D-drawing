@@ -15,6 +15,7 @@ A curated list of 3D drawing papers and related resources.
 - Bastien Wailly and Adrien Bousseau - <a href="https://www-sop.inria.fr/reves/Basilic/2019/WB19b/bwailly_JFIGRV_2019.pdf">Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling</a> (2019). [<a href="https://gitlab.inria.fr/D3/contour-detect">code</a>]
 
 ### Drawing Techniques and Analysis
+- Karran Pandey et al - <a href="https://splatpainting.github.io/static/assets/paper.pdf"></a> (2025).
 - Zhi-Zheng Xiang et al - BrushGaussian Brushstroke-Based Stylization for 3D Gaussian Splatting (2025).
 - Hao Li et al - An Inverse Procedural Modeling Pipeline for Stylized Brush Stroke Rendering (2024).
 - Yuta Noma et al - Surface-Filling Curve Flows via Implicit Medial Axes (2024).
