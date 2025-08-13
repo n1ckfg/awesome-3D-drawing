@@ -12,6 +12,8 @@ A curated list of 3D drawing papers and related resources.
 - Caroline Chan et al - <a href="https://arxiv.org/abs/2203.12691">Learning to Generate Line Drawings That Convey Geometry and Semantics</a> (2022). [<a href="https://github.com/carolineec/informative-drawings">code</a>]
 - Geonmo Gu et al - <a href="https://arxiv.org/pdf/2106.00186">Towards Light-weight and Real-time Line Segment Detection</a> (2022). [<a href="https://github.com/navervision/mlsd">code</a>] [<a href="https://github.com/keijiro/MlsdBarracuda">code2</a>]
 - Emilie Yu et al - <a href="https://www-sop.inria.fr/reves/Basilic/2021/YASBS21/CASSIE_author_version.pdf">CASSIE: Curve and Surface Sketching in Immersive Environments</a> (2021). [<a href="https://gitlab.inria.fr/D3/cassie">code</a>]
+- Yulia Gryaditskaya et al - <a href="https://repo-sam.inria.fr/d3/Lift3D/Gryaditskaya_SigAsia20_Lifting%20_Freehand_Concept_Sketches_into_3D.pdf
+">Lifting Freehand Concept Sketches into 3D</a> (2020). [<a href="https://github.com/ygryadit/LiftConceptSketches3D">code</a>]
 - Bastien Wailly and Adrien Bousseau - <a href="https://www-sop.inria.fr/reves/Basilic/2019/WB19b/bwailly_JFIGRV_2019.pdf">Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling</a> (2019). [<a href="https://gitlab.inria.fr/D3/contour-detect">code</a>]
 
 ### Drawing Techniques and Analysis
