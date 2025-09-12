@@ -37,6 +37,11 @@ A curated list of 3D drawing papers and related resources.
 - Sergio Orts-Escolano et al - 3D Colour Object Reconstruction Based on Growing Neural Gas (2014).
 - Tongjie Zhang and Ching Yee Suen - A Fast Parallel Algorithm for Thinning Digital Patterns (1984).
 
+### Related Mocap and Volcap
+- Haiyong Jiang et al - <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Skeleton-Aware_3D_Human_Shape_Reconstruction_From_Point_Clouds_ICCV_2019_paper.pdf">Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds</a> (2019).
+- Naureen Mahmood et al - <a href="https://files.is.tue.mpg.de/black/papers/amass.pdf">AMASS: Archive of Motion Capture As Surface Shapes</a> (2019). [<a href="https://github.com/nghorbani/amass">code</a>]
+- Joao Regateiro et al - <a href="https://cvssp.org/projects/4d/HSDSR/Regateiro_3DV2018.pdf">Hybrid Skeleton Driven Surface Registration for Temporally Consistent Volumetric Video</a> (2018).
+
 ### Related Graphics History
 - Richard Shoup - SuperPaint: An Early Frame Buffer Graphics System (2001).
 - Marc Levoy - A Color Animation System Based on the Multiplane Technique (1977).
