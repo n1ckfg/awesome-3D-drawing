@@ -26,11 +26,15 @@ A curated list of 3D drawing papers and related resources.
 - Richard Rodriguez et al - <a href="https://dl.acm.org/doi/10.1145/3613904.3642758">Artists' Perspectives on Natural Interactions for Virtual Reality 3D Sketching</a> (2024).
 - Yael Vinker et al - <a href="https://arxiv.org/abs/2202.05822">CLIPasso: Semantically-Aware Object Sketching</a> (2022).
 - Kevin Frans et al - <a href="https://arxiv.org/abs/2106.14843">CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders</a> (2021).
+- Ying Jiang et al - <a href="https://yingjiang96.github.io/handpaintermaterial/handpainter.pdf">HandPainter: 3D Sketching in VR with Hand-based Physical Proxy</a> (2021).
 - Enrique Rosales et al - <a href="https://www.cs.ubc.ca/labs/imager/tr/2021/AdaptiBrush/">Adaptive General and Predictable VR Ribbon Brush</a> (2021).
 - Aaron Hertzmann - <a href="https://arxiv.org/abs/2002.06260">Why Do Line Drawings Work? A Realism Hypothesis</a> (2020).
 - Difan Liu et al - <a href="https://arxiv.org/abs/2003.10333">Neural Contours: Learning to Draw Lines from 3D Shapes</a> (2020).
 - Mayra Barrera-Machuca et al - <a href="https://vvise.iat.sfu.ca/pubs/machuca2019spatial">The Effect of Spatial Ability on Immersive 3D Drawing</a> (2019).
+- Rahul Ahora et al - <a href="https://www.research.autodesk.com/app/uploads/2023/03/experimental-evaluation-of-sketching.pdf_recSPFZ4RbLaE2Uio.pdf">Experimental Evaluation of Sketching on Surfaces in VR</a> (2017).
 - David Ha and Douglas Eck - <a href="https://arxiv.org/abs/1704.03477">A Neural Representation of Sketch Drawings</a> (2017).
+- Daniel Keefe et al - <a href="https://cs.brown.edu/research/pubs/pdfs/2007/Keefe-2007-DOA.pdf">Drawing on Air: Input Techniques for Controlled 3D Line Illustration</a> (2007).
+- Michael Deering - <a href="https://dl.acm.org/doi/10.1145/210079.210087">Holosketch: A Virtual Reality Sketching/Animation Tool</a> (1995).
 
 ### Related Processing Techniques
 - Marco Domenico Cirillo et al - <a href="https://arxiv.org/abs/2003.13653">Vox2Vox 3D-GAN for Brain Tumour Segmentation</a> (2020). [<a href="https://github.com/mdciri/Vox2Vox">code</a>] [<a href="https://github.com/enochkan/vox2vox">code2</a>]
@@ -65,6 +69,8 @@ A curated list of 3D drawing papers and related resources.
 ### Related Graphics History
 - Amanda Long - <a href="https://www.isea-symposium-archives.org/wp-content/uploads/2024/08/2023_Long_Copy-It-Right_The_Distribution_Religion.pdf">The Media Archaeology of the Sandin Image Processor</a> (2023). [<a href="https://github.com/amandalong/Sandin-Image-Processor">code</a>]
 - Richard Shoup - <a href="https://www.computer.org/csdl/magazine/an/2001/02/man2001020032/13rRUyft7wz">SuperPaint: An Early Frame Buffer Graphics System</a> (2001).
+- Brian Knep et al - <a href="https://dl.acm.org/doi/10.1145/223904.223943">Dinosaur Input Device</a> (1995).
+- Carolina Cruz-Neira et al - <a href="https://dl.acm.org/doi/10.1145/129888.129892">The CAVE: Audio Visual Experience Automatic Virtual Environment</a> (1992).
 - Marc Levoy - <a href="https://dl.acm.org/doi/10.1145/965141.563871">A Color Animation System Based on the Multiplane Technique</a> (1977).
 - Nestor Burtnyk and Marceli Wein - <a href="https://dl.acm.org/doi/10.1145/360349.360357">Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation</a> (1976).
 
