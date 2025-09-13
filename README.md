@@ -16,6 +16,7 @@ A curated list of 3D drawing papers and related resources.
 - Yulia Gryaditskaya et al - <a href="https://repo-sam.inria.fr/d3/Lift3D/Gryaditskaya_SigAsia20_Lifting%20_Freehand_Concept_Sketches_into_3D.pdf
 ">Lifting Freehand Concept Sketches into 3D</a> (2020). [<a href="https://github.com/ygryadit/LiftConceptSketches3D">code</a>]
 - Bastien Wailly and Adrien Bousseau - <a href="https://www-sop.inria.fr/reves/Basilic/2019/WB19b/bwailly_JFIGRV_2019.pdf">Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling</a> (2019). [<a href="https://gitlab.inria.fr/D3/contour-detect">code</a>]
+- Pierre Bénard et al - <a href="https://inria.hal.science/hal-00693453/en">Active Strokes: Coherent Line Stylization for Animated 3D Models</a> (2012). [<a href="https://github.com/benardp/ActiveStrokes">code</a>]
 
 ### Drawing Techniques and Analysis
 - Karran Pandey et al - <a href="https://dl.acm.org/doi/10.1145/3721238.3730724">Painting with 3D Gaussian Splat Brushes</a> (2025).
