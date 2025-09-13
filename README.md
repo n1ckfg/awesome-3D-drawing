@@ -34,16 +34,20 @@ A curated list of 3D drawing papers and related resources.
 - Rahul Ahora et al - <a href="https://www.research.autodesk.com/app/uploads/2023/03/experimental-evaluation-of-sketching.pdf_recSPFZ4RbLaE2Uio.pdf">Experimental Evaluation of Sketching on Surfaces in VR</a> (2017).
 - David Ha and Douglas Eck - <a href="https://arxiv.org/abs/1704.03477">A Neural Representation of Sketch Drawings</a> (2017).
 - Daniel Keefe et al - <a href="https://cs.brown.edu/research/pubs/pdfs/2007/Keefe-2007-DOA.pdf">Drawing on Air: Input Techniques for Controlled 3D Line Illustration</a> (2007).
+- Scott Snibbe et al - <a href="https://www.researchgate.net/publication/228584605_Springs_and_constraints_for_3D_drawing">Springs and Constraints for 3D Drawing</a> (1998).
 - Michael Deering - <a href="https://dl.acm.org/doi/10.1145/210079.210087">Holosketch: A Virtual Reality Sketching/Animation Tool</a> (1995).
 
 ### Related Processing Techniques
 - Marco Domenico Cirillo et al - <a href="https://arxiv.org/abs/2003.13653">Vox2Vox 3D-GAN for Brain Tumour Segmentation</a> (2020). [<a href="https://github.com/mdciri/Vox2Vox">code</a>] [<a href="https://github.com/enochkan/vox2vox">code2</a>]
 - Phillip Isola et al - <a href="https://arxiv.org/abs/1611.07004">Image-to-Image Translation with Conditional Adversarial Networks</a> (2016).
+- Manuel Ruder et al - <a href="https://arxiv.org/abs/1604.08610">Artistic Style Transfer for Videos</a> (2016).
 - Dena Bazazian et al - <a href="https://ieeexplore.ieee.org/document/7371262">Fast and Robust Edge Extraction in Unorganized Point Clouds</a> (2015). [<a href="https://github.com/denabazazian/Edge_Extraction">code</a>]
+- Leon Gatys et al - <a href="https://arxiv.org/abs/1508.06576">A Neural Algorithm of Artistic Style</a> (2015).
 - Sergio Orts-Escolano et al - <a href="https://ieeexplore.ieee.org/document/6889546">3D Colour Object Reconstruction Based on Growing Neural Gas</a> (2014). [<a href="https://github.com/rendchevi/growing-neural-gas">code</a>]
 - Tongjie Zhang and Ching Yee Suen - <a href="https://dl.acm.org/doi/10.1145/357994.358023">A Fast Parallel Algorithm for Thinning Digital Patterns</a> (1984). [<a href="https://github.com/LingDong-/skeleton-tracing">code</a>]
 
 ### Related Mocap and Volcap
+- Christopher Remde et al - <a href="https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1405808/full">Sparse Camera Volumetric Video Applications: A Comparison of Visual Fidelity, User Experience, and Adaptability</a> (2025).
 - Haiyong Jiang et al - <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Skeleton-Aware_3D_Human_Shape_Reconstruction_From_Point_Clouds_ICCV_2019_paper.pdf">Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds</a> (2019).
 - Naureen Mahmood et al - <a href="https://files.is.tue.mpg.de/black/papers/amass.pdf">AMASS: Archive of Motion Capture As Surface Shapes</a> (2019). [<a href="https://github.com/nghorbani/amass">code</a>]
 - Joao Regateiro et al - <a href="https://cvssp.org/projects/4d/HSDSR/Regateiro_3DV2018.pdf">Hybrid Skeleton Driven Surface Registration for Temporally Consistent Volumetric Video</a> (2018).
