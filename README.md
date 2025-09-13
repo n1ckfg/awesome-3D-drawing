@@ -20,7 +20,7 @@ A curated list of 3D drawing papers and related resources.
 
 ### Drawing Techniques and Analysis
 - Karran Pandey et al - <a href="https://dl.acm.org/doi/10.1145/3721238.3730724">Painting with 3D Gaussian Splat Brushes</a> (2025).
-- Zhi-Zheng Xiang et al - <a href="https://www.mdpi.com/2076-3417/15/12/6881">BrushGaussian Brushstroke-Based Stylization for 3D Gaussian Splatting</a> (2025).
+- Zhi-Zheng Xiang et al - <a href="https://www.mdpi.com/2076-3417/15/12/6881">BrushGaussian: Brushstroke-Based Stylization for 3D Gaussian Splatting</a> (2025).
 - Hao Li et al - <a href="https://diglib.eg.org/server/api/core/bitstreams/f12e87c6-6eda-4376-b77a-71eb945ebd8a/content">An Inverse Procedural Modeling Pipeline for Stylized Brush Stroke Rendering</a> (2024).
 - Yuta Noma et al - <a href="https://www.dgp.toronto.edu/projects/surface-filling-curves/surface-filling-curves.pdf">Surface-Filling Curve Flows via Implicit Medial Axes</a> (2024).
 - Richard Rodriguez et al - <a href="https://dl.acm.org/doi/10.1145/3613904.3642758">Artists' Perspectives on Natural Interactions for Virtual Reality 3D Sketching</a> (2024).
