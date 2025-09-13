@@ -19,23 +19,23 @@ A curated list of 3D drawing papers and related resources.
 
 ### Drawing Techniques and Analysis
 - Karran Pandey et al - <a href="https://dl.acm.org/doi/10.1145/3721238.3730724">Painting with 3D Gaussian Splat Brushes</a> (2025).
-- Zhi-Zheng Xiang et al - BrushGaussian Brushstroke-Based Stylization for 3D Gaussian Splatting (2025).
-- Hao Li et al - An Inverse Procedural Modeling Pipeline for Stylized Brush Stroke Rendering (2024).
-- Yuta Noma et al - Surface-Filling Curve Flows via Implicit Medial Axes (2024).
-- Richard Rodriguez et al - Artists' Perspectives on Natural Interactions for Virtual Reality 3D Sketching (2024).
-- Yael Vinker et al - CLIPasso: Semantically-Aware Object Sketching (2022).
-- Kevin Frans et al - CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders (2021).
+- Zhi-Zheng Xiang et al - <a href="https://www.mdpi.com/2076-3417/15/12/6881">BrushGaussian Brushstroke-Based Stylization for 3D Gaussian Splatting</a> (2025).
+- Hao Li et al - <a href="https://diglib.eg.org/server/api/core/bitstreams/f12e87c6-6eda-4376-b77a-71eb945ebd8a/content">An Inverse Procedural Modeling Pipeline for Stylized Brush Stroke Rendering</a> (2024).
+- Yuta Noma et al - <a href="https://www.dgp.toronto.edu/projects/surface-filling-curves/surface-filling-curves.pdf">Surface-Filling Curve Flows via Implicit Medial Axes</a> (2024).
+- Richard Rodriguez et al - <a href="https://dl.acm.org/doi/10.1145/3613904.3642758">Artists' Perspectives on Natural Interactions for Virtual Reality 3D Sketching</a> (2024).
+- Yael Vinker et al - <a href="https://arxiv.org/abs/2202.05822">CLIPasso: Semantically-Aware Object Sketching</a> (2022).
+- Kevin Frans et al - <a href="https://arxiv.org/abs/2106.14843">CLIPDraw: Exploring Text-to-Drawing Synthesis through Language-Image Encoders</a> (2021).
 - Enrique Rosales et al - <a href="https://www.cs.ubc.ca/labs/imager/tr/2021/AdaptiBrush/">Adaptive General and Predictable VR Ribbon Brush</a> (2021).
-- Aaron Hertzmann - Why Do Line Drawings Work? A Realism Hypothesis (2020).
-- Difan Liu et al - Neural Contours: Learning to Draw Lines from 3D Shapes (2020).
-- Mayra Barrera-Machuca et al - The Effect of Spatial Ability on Immersive 3D Drawing (2019).
-- David Ha and Douglas Eck - A Neural Representation of Sketch Drawings (2017).
+- Aaron Hertzmann - <a href="https://arxiv.org/abs/2002.06260">Why Do Line Drawings Work? A Realism Hypothesis</a> (2020).
+- Difan Liu et al - <a href="https://arxiv.org/abs/2003.10333">Neural Contours: Learning to Draw Lines from 3D Shapes</a> (2020).
+- Mayra Barrera-Machuca et al - <a href="https://vvise.iat.sfu.ca/pubs/machuca2019spatial">The Effect of Spatial Ability on Immersive 3D Drawing</a> (2019).
+- David Ha and Douglas Eck - <a href="https://arxiv.org/abs/1704.03477">A Neural Representation of Sketch Drawings</a> (2017).
 
 ### Related Processing Techniques
-- Marco Domenico Cirillo et al - Vox2Vox 3D-GAN for Brain Tumour Segmentation (2020).
-- Dena Bazazian et al - Fast and Robust Edge Extraction in Unorganized Point Clouds (2015).
-- Sergio Orts-Escolano et al - 3D Colour Object Reconstruction Based on Growing Neural Gas (2014).
-- Tongjie Zhang and Ching Yee Suen - A Fast Parallel Algorithm for Thinning Digital Patterns (1984).
+- Marco Domenico Cirillo et al - <a href="https://arxiv.org/abs/2003.13653">Vox2Vox 3D-GAN for Brain Tumour Segmentation</a> (2020). [<a href="https://github.com/mdciri/Vox2Vox">code</a>] [<a href="https://github.com/enochkan/vox2vox">code2</a>]
+- Dena Bazazian et al - <a href="https://ieeexplore.ieee.org/document/7371262">Fast and Robust Edge Extraction in Unorganized Point Clouds</a> (2015). [<a href="https://github.com/denabazazian/Edge_Extraction">code</a>]
+- Sergio Orts-Escolano et al - <a href="https://ieeexplore.ieee.org/document/6889546">3D Colour Object Reconstruction Based on Growing Neural Gas</a> (2014).
+- Tongjie Zhang and Ching Yee Suen - <a href="https://dl.acm.org/doi/10.1145/357994.358023">A Fast Parallel Algorithm for Thinning Digital Patterns</a> (1984). [<a href="https://github.com/LingDong-/skeleton-tracing">code</a>]
 
 ### Related Mocap and Volcap
 - Haiyong Jiang et al - <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Skeleton-Aware_3D_Human_Shape_Reconstruction_From_Point_Clouds_ICCV_2019_paper.pdf">Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds</a> (2019).
@@ -43,27 +43,27 @@ A curated list of 3D drawing papers and related resources.
 - Joao Regateiro et al - <a href="https://cvssp.org/projects/4d/HSDSR/Regateiro_3DV2018.pdf">Hybrid Skeleton Driven Surface Registration for Temporally Consistent Volumetric Video</a> (2018).
 
 ### Related Graphics History
-- Richard Shoup - SuperPaint: An Early Frame Buffer Graphics System (2001).
-- Marc Levoy - A Color Animation System Based on the Multiplane Technique (1977).
-- Nestor Burtnyk and Marceli Wein - Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation (1976).
+- Richard Shoup - <a href="https://www.computer.org/csdl/magazine/an/2001/02/man2001020032/13rRUyft7wz">SuperPaint: An Early Frame Buffer Graphics System</a> (2001).
+- Marc Levoy - <a href="https://dl.acm.org/doi/10.1145/965141.563871">A Color Animation System Based on the Multiplane Technique</a> (1977).
+- Nestor Burtnyk and Marceli Wein - <a href="https://dl.acm.org/doi/10.1145/360349.360357">Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation</a> (1976).
 
 ### Related Dissertation / Thesis
-- Nick Fox-Gieg - Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline (2025).
-- Emilie Yu - Designing Tools for 3D Content Authoring Based on 3D Sketching (2023).
-- Rahul Arora - Creative Visual Expression in Immersive 3D Environments (2021).
-- Maria Shugrina - The Design of Playful and Intelligent Creative Tools (2021).
-- Emilie Yu - Interactive 3D Sketching in Virtual Reality (2020).
-- Caroline Chan - First Principles of Line Drawings (2017).
-- Jennifer Jacobs - Dynamic Drawing: Broadening Practice and Participation in Procedural Art (2017).
-- Johannes Schmid - Methods for Artistic Stylization in 3D Animation (2012).
-- Alexander Kolliopoulos - Image Segmentation for Stylized Non-Photorealistic Rendering and Animation (2005).
-- Steven Schkolne - 3D Interfaces for Spatial Construction (2004).
-- Aaron Hertzmann - Algorithms for Rendering in Artistic Styles (2001).
-- Golan Levin - Painterly Interfaces for Audiovisual Performance (2000).
-- Rebecca Allen - Computer Rotoscoping with the Aid of Color Recognition (1980).
-- Ronald Baecker - Interactive Computer-Mediated Animation (1969). 
-- Thomas A. DeFanti - The Graphics Symbiosis System (1973).
-- Ivan Sutherland - Sketchpad: A Man-Machine Graphical Communication System (1963).
+- Nick Fox-Gieg - <a href="https://hdl.handle.net/10315/42999">Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline</a> (2025).
+- Emilie Yu - <a href="https://theses.hal.science/tel-04484971v1">Designing Tools for 3D Content Authoring Based on 3D Sketching</a> (2023).
+- Rahul Arora - <a href="https://utoronto.scholaris.ca/items/e41e9604-a6ed-40f2-891d-222c212f4cb3">Creative Visual Expression in Immersive 3D Environments</a> (2021).
+- Maria Shugrina - <a href="https://utoronto.scholaris.ca/items/30b67df3-138b-4f3f-8304-6e22bbc4b449">The Design of Playful and Intelligent Creative Tools</a> (2021).
+- Emilie Yu - <a href="https://em-yu.github.io/media/papers/MSc_Thesis__Emilie_Yu_v3.pdf">Interactive 3D Sketching in Virtual Reality</a> (2020).
+- Caroline Chan - <a href="https://dspace.mit.edu/bitstream/handle/1721.1/139322/Chan-cmchan-SM-EECS-2021-thesis.pdf?sequence=1&isAllowed=y">First Principles of Line Drawings</a> (2017).
+- Jennifer Jacobs - <a href="">Dynamic Drawing: Broadening Practice and Participation in Procedural Art</a> (2017).
+- Johannes Schmid - <a href="">Methods for Artistic Stylization in 3D Animation</a> (2012).
+- Alexander Kolliopoulos - <a href="">Image Segmentation for Stylized Non-Photorealistic Rendering and Animation</a> (2005).
+- Steven Schkolne - <a href="">3D Interfaces for Spatial Construction</a> (2004).
+- Aaron Hertzmann - <a href="">Algorithms for Rendering in Artistic Styles</a> (2001).
+- Golan Levin - <a href="">Painterly Interfaces for Audiovisual Performance</a> (2000).
+- Rebecca Allen - <a href="">Computer Rotoscoping with the Aid of Color Recognition</a> (1980).
+- Ronald Baecker - <a href="">Interactive Computer-Mediated Animation</a> (1969). 
+- Thomas A. DeFanti - <a href="">The Graphics Symbiosis System</a> (1973).
+- Ivan Sutherland - <a href="">Sketchpad: A Man-Machine Graphical Communication System</a> (1963).
  
 ### Related Datasets
 - Nick Fox-Gieg - TiltSet: A Collection of 3D Drawings (2024). [<a href="https://doi.org/10.20383/103.0917">files</a>]
