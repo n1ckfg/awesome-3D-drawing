@@ -33,8 +33,9 @@ A curated list of 3D drawing papers and related resources.
 
 ### Related Processing Techniques
 - Marco Domenico Cirillo et al - <a href="https://arxiv.org/abs/2003.13653">Vox2Vox 3D-GAN for Brain Tumour Segmentation</a> (2020). [<a href="https://github.com/mdciri/Vox2Vox">code</a>] [<a href="https://github.com/enochkan/vox2vox">code2</a>]
+- Phillip Isola et al - <a href="https://arxiv.org/abs/1611.07004">Image-to-Image Translation with Conditional Adversarial Networks</a> (2016).
 - Dena Bazazian et al - <a href="https://ieeexplore.ieee.org/document/7371262">Fast and Robust Edge Extraction in Unorganized Point Clouds</a> (2015). [<a href="https://github.com/denabazazian/Edge_Extraction">code</a>]
-- Sergio Orts-Escolano et al - <a href="https://ieeexplore.ieee.org/document/6889546">3D Colour Object Reconstruction Based on Growing Neural Gas</a> (2014).
+- Sergio Orts-Escolano et al - <a href="https://ieeexplore.ieee.org/document/6889546">3D Colour Object Reconstruction Based on Growing Neural Gas</a> (2014). [<a href="https://github.com/rendchevi/growing-neural-gas">code</a>]
 - Tongjie Zhang and Ching Yee Suen - <a href="https://dl.acm.org/doi/10.1145/357994.358023">A Fast Parallel Algorithm for Thinning Digital Patterns</a> (1984). [<a href="https://github.com/LingDong-/skeleton-tracing">code</a>]
 
 ### Related Mocap and Volcap
@@ -65,7 +66,7 @@ A curated list of 3D drawing papers and related resources.
 - Thomas A. DeFanti - <a href="https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=osu1486740394721916">The Graphics Symbiosis System</a> (1973).
 - Ivan Sutherland - <a href="https://dl.acm.org/doi/10.1145/1461551.1461591">Sketchpad: A Man-Machine Graphical Communication System</a> (1963).
  
-### Related Datasets
+## Datasets
 - Nick Fox-Gieg - TiltSet: A Collection of 3D Drawings (2024). [<a href="https://doi.org/10.20383/103.0917">files</a>]
 - Nick Fox-Gieg - ABC-Draco: A GLTF Draco Conversion of the NYU ABC-Dataset (2024). [<a href="https://doi.org/10.5683/SP3/QGGXYJ">files</a>]
 - Laura Downs et al - <a href="https://arxiv.org/abs/2204.11918">Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items</a> (2022). [<a href="https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research">files</a>]
