@@ -53,17 +53,17 @@ A curated list of 3D drawing papers and related resources.
 - Rahul Arora - <a href="https://utoronto.scholaris.ca/items/e41e9604-a6ed-40f2-891d-222c212f4cb3">Creative Visual Expression in Immersive 3D Environments</a> (2021).
 - Maria Shugrina - <a href="https://utoronto.scholaris.ca/items/30b67df3-138b-4f3f-8304-6e22bbc4b449">The Design of Playful and Intelligent Creative Tools</a> (2021).
 - Emilie Yu - <a href="https://em-yu.github.io/media/papers/MSc_Thesis__Emilie_Yu_v3.pdf">Interactive 3D Sketching in Virtual Reality</a> (2020).
-- Caroline Chan - <a href="https://dspace.mit.edu/bitstream/handle/1721.1/139322/Chan-cmchan-SM-EECS-2021-thesis.pdf?sequence=1&isAllowed=y">First Principles of Line Drawings</a> (2017).
-- Jennifer Jacobs - <a href="">Dynamic Drawing: Broadening Practice and Participation in Procedural Art</a> (2017).
-- Johannes Schmid - <a href="">Methods for Artistic Stylization in 3D Animation</a> (2012).
-- Alexander Kolliopoulos - <a href="">Image Segmentation for Stylized Non-Photorealistic Rendering and Animation</a> (2005).
-- Steven Schkolne - <a href="">3D Interfaces for Spatial Construction</a> (2004).
-- Aaron Hertzmann - <a href="">Algorithms for Rendering in Artistic Styles</a> (2001).
-- Golan Levin - <a href="">Painterly Interfaces for Audiovisual Performance</a> (2000).
-- Rebecca Allen - <a href="">Computer Rotoscoping with the Aid of Color Recognition</a> (1980).
-- Ronald Baecker - <a href="">Interactive Computer-Mediated Animation</a> (1969). 
-- Thomas A. DeFanti - <a href="">The Graphics Symbiosis System</a> (1973).
-- Ivan Sutherland - <a href="">Sketchpad: A Man-Machine Graphical Communication System</a> (1963).
+- Caroline Chan - <a href="https://dspace.mit.edu/bitstream/handle/1721.1/139322/Chan-cmchan-SM-EECS-2021-thesis.pdf">First Principles of Line Drawings</a> (2017).
+- Jennifer Jacobs - <a href="https://www.media.mit.edu/publications/dynamic-drawing-broadening-practice-and-participation-in-procedural-art/">Dynamic Drawing: Broadening Practice and Participation in Procedural Art</a> (2017).
+- Johannes Schmid - <a href="https://cgl.ethz.ch/Downloads/Publications/Dissertations/Schm12.pdf">Methods for Artistic Stylization in 3D Animation</a> (2012).
+- Alexander Kolliopoulos - <a href="https://www.dgp.toronto.edu/~alexk/segnpr.html">Image Segmentation for Stylized Non-Photorealistic Rendering and Animation</a> (2005).
+- Steven Schkolne - <a href="https://core.ac.uk/download/pdf/11811132.pdf">3D Interfaces for Spatial Construction</a> (2004).
+- Aaron Hertzmann - <a href="https://cs.nyu.edu/media/publications/hertzmann_aaron.pdf">Algorithms for Rendering in Artistic Styles</a> (2001).
+- Golan Levin - <a href="https://acg.media.mit.edu/people/golan/thesis/thesis300.pdf">Painterly Interfaces for Audiovisual Performance</a> (2000).
+- Rebecca Allen - <a href="https://dspace.mit.edu/handle/1721.1/71031?show=full">Computer Rotoscoping with the Aid of Color Recognition</a> (1980).
+- Ronald Baecker - <a href="https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-061.pdf">Interactive Computer-Mediated Animation</a> (1969). 
+- Thomas A. DeFanti - <a href="https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=osu1486740394721916">The Graphics Symbiosis System</a> (1973).
+- Ivan Sutherland - <a href="https://dl.acm.org/doi/10.1145/1461551.1461591">Sketchpad: A Man-Machine Graphical Communication System</a> (1963).
  
 ### Related Datasets
 - Nick Fox-Gieg - TiltSet: A Collection of 3D Drawings (2024). [<a href="https://doi.org/10.20383/103.0917">files</a>]
