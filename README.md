@@ -44,11 +44,6 @@ A curated list of 3D drawing papers and related resources.
 - Naureen Mahmood et al - <a href="https://files.is.tue.mpg.de/black/papers/amass.pdf">AMASS: Archive of Motion Capture As Surface Shapes</a> (2019). [<a href="https://github.com/nghorbani/amass">code</a>]
 - Joao Regateiro et al - <a href="https://cvssp.org/projects/4d/HSDSR/Regateiro_3DV2018.pdf">Hybrid Skeleton Driven Surface Registration for Temporally Consistent Volumetric Video</a> (2018).
 
-### Related Graphics History
-- Richard Shoup - <a href="https://www.computer.org/csdl/magazine/an/2001/02/man2001020032/13rRUyft7wz">SuperPaint: An Early Frame Buffer Graphics System</a> (2001).
-- Marc Levoy - <a href="https://dl.acm.org/doi/10.1145/965141.563871">A Color Animation System Based on the Multiplane Technique</a> (1977).
-- Nestor Burtnyk and Marceli Wein - <a href="https://dl.acm.org/doi/10.1145/360349.360357">Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation</a> (1976).
-
 ### Related Dissertation / Thesis
 - Nick Fox-Gieg - <a href="https://hdl.handle.net/10315/42999">Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline</a> (2025).
 - Emilie Yu - <a href="https://theses.hal.science/tel-04484971v1">Designing Tools for 3D Content Authoring Based on 3D Sketching</a> (2023).
@@ -66,7 +61,13 @@ A curated list of 3D drawing papers and related resources.
 - Ronald Baecker - <a href="https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-061.pdf">Interactive Computer-Mediated Animation</a> (1969). 
 - Thomas A. DeFanti - <a href="https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=osu1486740394721916">The Graphics Symbiosis System</a> (1973).
 - Ivan Sutherland - <a href="https://dl.acm.org/doi/10.1145/1461551.1461591">Sketchpad: A Man-Machine Graphical Communication System</a> (1963).
- 
+
+### Related Graphics History
+- Amanda Long - <a href="https://www.isea-symposium-archives.org/wp-content/uploads/2024/08/2023_Long_Copy-It-Right_The_Distribution_Religion.pdf">The Media Archaeology of the Sandin Image Processor</a> (2023). [<a href="https://github.com/amandalong/Sandin-Image-Processor">code</a>]
+- Richard Shoup - <a href="https://www.computer.org/csdl/magazine/an/2001/02/man2001020032/13rRUyft7wz">SuperPaint: An Early Frame Buffer Graphics System</a> (2001).
+- Marc Levoy - <a href="https://dl.acm.org/doi/10.1145/965141.563871">A Color Animation System Based on the Multiplane Technique</a> (1977).
+- Nestor Burtnyk and Marceli Wein - <a href="https://dl.acm.org/doi/10.1145/360349.360357">Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation</a> (1976).
+
 ## Datasets
 - Nick Fox-Gieg - TiltSet: A Collection of 3D Drawings (2024). [<a href="https://doi.org/10.20383/103.0917">files</a>]
 - Nick Fox-Gieg - ABC-Draco: A GLTF Draco Conversion of the NYU ABC-Dataset (2024). [<a href="https://doi.org/10.5683/SP3/QGGXYJ">files</a>]
