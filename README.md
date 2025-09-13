@@ -51,6 +51,7 @@ A curated list of 3D drawing papers and related resources.
 - Haiyong Jiang et al - <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Skeleton-Aware_3D_Human_Shape_Reconstruction_From_Point_Clouds_ICCV_2019_paper.pdf">Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds</a> (2019).
 - Naureen Mahmood et al - <a href="https://files.is.tue.mpg.de/black/papers/amass.pdf">AMASS: Archive of Motion Capture As Surface Shapes</a> (2019). [<a href="https://github.com/nghorbani/amass">code</a>]
 - Joao Regateiro et al - <a href="https://cvssp.org/projects/4d/HSDSR/Regateiro_3DV2018.pdf">Hybrid Skeleton Driven Surface Registration for Temporally Consistent Volumetric Video</a> (2018).
+- Marek Kowalski et al - <a href="https://www.researchgate.net/publication/308807023_Livescan3D_A_Fast_and_Inexpensive_3D_Data_Acquisition_System_for_Multiple_Kinect_v2_Sensors">LiveScan3D: A Fast and Inexpensive 3D Data Acquisition System for Multiple Kinect v2 Sensors</a> (2015). [<a href="https://github.com/BuildingVolumes/LiveScan3D">code</a>]
 
 ### Related Dissertation / Thesis
 - Nick Fox-Gieg - <a href="https://hdl.handle.net/10315/42999">Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline</a> (2025).
