@@ -5,18 +5,18 @@ A curated list of 3D drawing papers and related resources.
 
 ## Papers
 ### 3D Drawing Implementations
-- Richard Liu et al - <a href="https://arxiv.org/abs/2505.04813">WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction</a> (2025). [<a href="https://github.com/threedle/wir3d">code</a>]
-- Changwoon Choi et al - <a href="https://arxiv.org/abs/2402.03690">3Doodle: Compact Abstraction of Objects with 3D Strokes</a> (2024). [<a href="https://github.com/changwoonchoi/3Doodle">code</a>]
-- Nick Fox-Gieg - <a href="https://doi.org/10.1145/3664221">Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline</a> (2024). [<a href="https://github.com/n1ckfg/latk_blender">code</a>]
-- Yunfan Ye et al - <a href="https://arxiv.org/abs/2303.07653">NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-View Images</a> (2023). [<a href="https://github.com/yunfan1202/NEF_code">code</a>]
-- Caroline Chan et al - <a href="https://arxiv.org/abs/2203.12691">Learning to Generate Line Drawings That Convey Geometry and Semantics</a> (2022). [<a href="https://github.com/carolineec/informative-drawings">code</a>]
-- Geonmo Gu et al - <a href="https://arxiv.org/pdf/2106.00186">Towards Light-weight and Real-time Line Segment Detection</a> (2022). [<a href="https://github.com/navervision/mlsd">code</a>] [<a href="https://github.com/keijiro/MlsdBarracuda">code2</a>]
-- Wangziwei Jiang et al - <a href="https://diglib.eg.org/bitstream/handle/10.2312/sr20221159/093-105.pdf">GPU-Driven Real-Time Mesh Contour Vectorization</a> (2022). [<a href="https://github.com/JiangWZW/Realtime-GPU-Contour-Curves-from-3D-Mesh">code</a>]
-- Emilie Yu et al - <a href="https://www-sop.inria.fr/reves/Basilic/2021/YASBS21/CASSIE_author_version.pdf">CASSIE: Curve and Surface Sketching in Immersive Environments</a> (2021). [<a href="https://gitlab.inria.fr/D3/cassie">code</a>]
+- Richard Liu et al - <a href="https://arxiv.org/abs/2505.04813">WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction</a> (2025). {<a href="https://github.com/threedle/wir3d">code</a>}
+- Changwoon Choi et al - <a href="https://arxiv.org/abs/2402.03690">3Doodle: Compact Abstraction of Objects with 3D Strokes</a> (2024). {<a href="https://github.com/changwoonchoi/3Doodle">code</a>}
+- Nick Fox-Gieg - <a href="https://doi.org/10.1145/3664221">Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline</a> (2024). {<a href="https://github.com/n1ckfg/latk_blender">code</a>}
+- Yunfan Ye et al - <a href="https://arxiv.org/abs/2303.07653">NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-View Images</a> (2023). {<a href="https://github.com/yunfan1202/NEF_code">code</a>}
+- Caroline Chan et al - <a href="https://arxiv.org/abs/2203.12691">Learning to Generate Line Drawings That Convey Geometry and Semantics</a> (2022). {<a href="https://github.com/carolineec/informative-drawings">code</a>}
+- Geonmo Gu et al - <a href="https://arxiv.org/pdf/2106.00186">Towards Light-weight and Real-time Line Segment Detection</a> (2022). {<a href="https://github.com/navervision/mlsd">code</a>} [<a href="https://github.com/keijiro/MlsdBarracuda">code2</a>}
+- Wangziwei Jiang et al - <a href="https://diglib.eg.org/bitstream/handle/10.2312/sr20221159/093-105.pdf">GPU-Driven Real-Time Mesh Contour Vectorization</a> (2022). {<a href="https://github.com/JiangWZW/Realtime-GPU-Contour-Curves-from-3D-Mesh">code</a>}
+- Emilie Yu et al - <a href="https://www-sop.inria.fr/reves/Basilic/2021/YASBS21/CASSIE_author_version.pdf">CASSIE: Curve and Surface Sketching in Immersive Environments</a> (2021). {<a href="https://gitlab.inria.fr/D3/cassie">code</a>}
 - Yulia Gryaditskaya et al - <a href="https://repo-sam.inria.fr/d3/Lift3D/Gryaditskaya_SigAsia20_Lifting%20_Freehand_Concept_Sketches_into_3D.pdf
-">Lifting Freehand Concept Sketches into 3D</a> (2020). [<a href="https://github.com/ygryadit/LiftConceptSketches3D">code</a>]
-- Bastien Wailly and Adrien Bousseau - <a href="https://www-sop.inria.fr/reves/Basilic/2019/WB19b/bwailly_JFIGRV_2019.pdf">Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling</a> (2019). [<a href="https://gitlab.inria.fr/D3/contour-detect">code</a>]
-- Pierre Bénard et al - <a href="https://inria.hal.science/hal-00693453/en">Active Strokes: Coherent Line Stylization for Animated 3D Models</a> (2012). [<a href="https://github.com/benardp/ActiveStrokes">code</a>]
+">Lifting Freehand Concept Sketches into 3D</a> (2020). {<a href="https://github.com/ygryadit/LiftConceptSketches3D">code</a>}
+- Bastien Wailly and Adrien Bousseau - <a href="https://www-sop.inria.fr/reves/Basilic/2019/WB19b/bwailly_JFIGRV_2019.pdf">Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling</a> (2019). {<a href="https://gitlab.inria.fr/D3/contour-detect">code</a>}
+- Pierre Bénard et al - <a href="https://inria.hal.science/hal-00693453/en">Active Strokes: Coherent Line Stylization for Animated 3D Models</a> (2012). {<a href="https://github.com/benardp/ActiveStrokes">code</a>}
 
 ### Drawing Techniques and Analysis
 - Karran Pandey et al - <a href="https://dl.acm.org/doi/10.1145/3721238.3730724">Painting with 3D Gaussian Splat Brushes</a> (2025).
@@ -38,20 +38,20 @@ A curated list of 3D drawing papers and related resources.
 - Michael Deering - <a href="https://dl.acm.org/doi/10.1145/210079.210087">Holosketch: A Virtual Reality Sketching/Animation Tool</a> (1995).
 
 ### Related Processing Techniques
-- Marco Domenico Cirillo et al - <a href="https://arxiv.org/abs/2003.13653">Vox2Vox 3D-GAN for Brain Tumour Segmentation</a> (2020). [<a href="https://github.com/mdciri/Vox2Vox">code</a>] [<a href="https://github.com/enochkan/vox2vox">code2</a>]
+- Marco Domenico Cirillo et al - <a href="https://arxiv.org/abs/2003.13653">Vox2Vox 3D-GAN for Brain Tumour Segmentation</a> (2020). {<a href="https://github.com/mdciri/Vox2Vox">code</a>} [<a href="https://github.com/enochkan/vox2vox">code2</a>}
 - Phillip Isola et al - <a href="https://arxiv.org/abs/1611.07004">Image-to-Image Translation with Conditional Adversarial Networks</a> (2016).
 - Manuel Ruder et al - <a href="https://arxiv.org/abs/1604.08610">Artistic Style Transfer for Videos</a> (2016).
-- Dena Bazazian et al - <a href="https://ieeexplore.ieee.org/document/7371262">Fast and Robust Edge Extraction in Unorganized Point Clouds</a> (2015). [<a href="https://github.com/denabazazian/Edge_Extraction">code</a>]
+- Dena Bazazian et al - <a href="https://ieeexplore.ieee.org/document/7371262">Fast and Robust Edge Extraction in Unorganized Point Clouds</a> (2015). {<a href="https://github.com/denabazazian/Edge_Extraction">code</a>}
 - Leon Gatys et al - <a href="https://arxiv.org/abs/1508.06576">A Neural Algorithm of Artistic Style</a> (2015).
-- Sergio Orts-Escolano et al - <a href="https://ieeexplore.ieee.org/document/6889546">3D Colour Object Reconstruction Based on Growing Neural Gas</a> (2014). [<a href="https://github.com/rendchevi/growing-neural-gas">code</a>]
-- Tongjie Zhang and Ching Yee Suen - <a href="https://dl.acm.org/doi/10.1145/357994.358023">A Fast Parallel Algorithm for Thinning Digital Patterns</a> (1984). [<a href="https://github.com/LingDong-/skeleton-tracing">code</a>]
+- Sergio Orts-Escolano et al - <a href="https://ieeexplore.ieee.org/document/6889546">3D Colour Object Reconstruction Based on Growing Neural Gas</a> (2014). {<a href="https://github.com/rendchevi/growing-neural-gas">code</a>}
+- Tongjie Zhang and Ching Yee Suen - <a href="https://dl.acm.org/doi/10.1145/357994.358023">A Fast Parallel Algorithm for Thinning Digital Patterns</a> (1984). {<a href="https://github.com/LingDong-/skeleton-tracing">code</a>}
 
 ### Related Mocap and Volcap
 - Christopher Remde et al - <a href="https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1405808/full">Sparse Camera Volumetric Video Applications: A Comparison of Visual Fidelity, User Experience, and Adaptability</a> (2025).
 - Haiyong Jiang et al - <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Skeleton-Aware_3D_Human_Shape_Reconstruction_From_Point_Clouds_ICCV_2019_paper.pdf">Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds</a> (2019).
-- Naureen Mahmood et al - <a href="https://files.is.tue.mpg.de/black/papers/amass.pdf">AMASS: Archive of Motion Capture As Surface Shapes</a> (2019). [<a href="https://github.com/nghorbani/amass">code</a>]
+- Naureen Mahmood et al - <a href="https://files.is.tue.mpg.de/black/papers/amass.pdf">AMASS: Archive of Motion Capture As Surface Shapes</a> (2019). {<a href="https://github.com/nghorbani/amass">code</a>}
 - Joao Regateiro et al - <a href="https://cvssp.org/projects/4d/HSDSR/Regateiro_3DV2018.pdf">Hybrid Skeleton Driven Surface Registration for Temporally Consistent Volumetric Video</a> (2018).
-- Marek Kowalski et al - <a href="https://www.researchgate.net/publication/308807023_Livescan3D_A_Fast_and_Inexpensive_3D_Data_Acquisition_System_for_Multiple_Kinect_v2_Sensors">LiveScan3D: A Fast and Inexpensive 3D Data Acquisition System for Multiple Kinect v2 Sensors</a> (2015). [<a href="https://github.com/BuildingVolumes/LiveScan3D">code</a>]
+- Marek Kowalski et al - <a href="https://www.researchgate.net/publication/308807023_Livescan3D_A_Fast_and_Inexpensive_3D_Data_Acquisition_System_for_Multiple_Kinect_v2_Sensors">LiveScan3D: A Fast and Inexpensive 3D Data Acquisition System for Multiple Kinect v2 Sensors</a> (2015). {<a href="https://github.com/BuildingVolumes/LiveScan3D">code</a>}
 
 ### Related Dissertation / Thesis
 - Nick Fox-Gieg - <a href="https://hdl.handle.net/10315/42999">Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline</a> (2025).
@@ -72,7 +72,7 @@ A curated list of 3D drawing papers and related resources.
 - Ivan Sutherland - <a href="https://dl.acm.org/doi/10.1145/1461551.1461591">Sketchpad: A Man-Machine Graphical Communication System</a> (1963).
 
 ### Related Graphics History
-- Amanda Long - <a href="https://www.isea-symposium-archives.org/wp-content/uploads/2024/08/2023_Long_Copy-It-Right_The_Distribution_Religion.pdf">The Media Archaeology of the Sandin Image Processor</a> (2023). [<a href="https://github.com/amandalong/Sandin-Image-Processor">code</a>]
+- Amanda Long - <a href="https://www.isea-symposium-archives.org/wp-content/uploads/2024/08/2023_Long_Copy-It-Right_The_Distribution_Religion.pdf">The Media Archaeology of the Sandin Image Processor</a> (2023). {<a href="https://github.com/amandalong/Sandin-Image-Processor">code</a>}
 - Richard Shoup - <a href="https://www.computer.org/csdl/magazine/an/2001/02/man2001020032/13rRUyft7wz">SuperPaint: An Early Frame Buffer Graphics System</a> (2001).
 - Brian Knep et al - <a href="https://dl.acm.org/doi/10.1145/223904.223943">Dinosaur Input Device</a> (1995).
 - Carolina Cruz-Neira et al - <a href="https://dl.acm.org/doi/10.1145/129888.129892">The CAVE: Audio Visual Experience Automatic Virtual Environment</a> (1992).
@@ -80,11 +80,11 @@ A curated list of 3D drawing papers and related resources.
 - Nestor Burtnyk and Marceli Wein - <a href="https://dl.acm.org/doi/10.1145/360349.360357">Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation</a> (1976).
 
 ## Datasets
-- Nick Fox-Gieg - TiltSet: A Collection of 3D Drawings (2024). [<a href="https://doi.org/10.20383/103.0917">files</a>]
-- Nick Fox-Gieg - ABC-Draco: A GLTF Draco Conversion of the NYU ABC-Dataset (2024). [<a href="https://doi.org/10.5683/SP3/QGGXYJ">files</a>]
-- Laura Downs et al - <a href="https://arxiv.org/abs/2204.11918">Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items</a> (2022). [<a href="https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research">files</a>]
-- Ling Luo et al - <a href="https://www.computer.org/csdl/proceedings-article/3dv/2021/268800b003/1zWE3NZ5Apq">Fine-Grained VR Sketching: Dataset and Insights</a> (2021). [<a href="https://cvssp.org/data/VRChairSketch/">files</a>]
-- Maria Shugrina et al - <a href="https://www.cs.toronto.edu/creativeflow/files/2596.pdf">Creative Flow+ Dataset</a> (2019). [<a href="https://www.cs.toronto.edu/creativeflow/">files</a>]
-- Sebastian Koch et al - <a href="https://arxiv.org/abs/1812.06216">ABC: A Big CAD Model Dataset for Geometric Deep Learning</a> (2019). [<a href="https://deep-geometry.github.io/abc-dataset/">files</a>]
+- Nick Fox-Gieg - TiltSet: A Collection of 3D Drawings (2024). {<a href="https://doi.org/10.20383/103.0917">files</a>}
+- Nick Fox-Gieg - ABC-Draco: A GLTF Draco Conversion of the NYU ABC-Dataset (2024). {<a href="https://doi.org/10.5683/SP3/QGGXYJ">files</a>}
+- Laura Downs et al - <a href="https://arxiv.org/abs/2204.11918">Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items</a> (2022). {<a href="https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research">files</a>}
+- Ling Luo et al - <a href="https://www.computer.org/csdl/proceedings-article/3dv/2021/268800b003/1zWE3NZ5Apq">Fine-Grained VR Sketching: Dataset and Insights</a> (2021). {<a href="https://cvssp.org/data/VRChairSketch/">files</a>}
+- Maria Shugrina et al - <a href="https://www.cs.toronto.edu/creativeflow/files/2596.pdf">Creative Flow+ Dataset</a> (2019). {<a href="https://www.cs.toronto.edu/creativeflow/">files</a>}
+- Sebastian Koch et al - <a href="https://arxiv.org/abs/1812.06216">ABC: A Big CAD Model Dataset for Geometric Deep Learning</a> (2019). {<a href="https://deep-geometry.github.io/abc-dataset/">files</a>}
 
 
