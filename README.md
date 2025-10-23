@@ -1,5 +1,4 @@
-# Awesome 3D Drawing
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome 3D Drawing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Overview
 A curated list of 3D drawing papers and related resources.
