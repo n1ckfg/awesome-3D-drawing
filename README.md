@@ -1,13 +1,13 @@
 # Awesome 3D Drawing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Overview
-A curated list of 3D drawing papers and related resources.
+A curated list of 3D drawing papers and related resources. XR work that uses 6DoF controllers, combined with ML work that processes and renders frame-by-frame volumetric representations, is yielding results of increasing interest to mainstream animation and VFX production.
 
 ## Contents
 - [Papers](#papers)
   - [3D Drawing Implementations](#3d-drawing-implementations)
-  - [Drawing Techniques and Analysis](#drawing-techniques-and-analysis)
-  - [Related Processing Techniques](#related-processing-techniques)
+  - [3D Drawing Techniques and Analysis](#3d-drawing-techniques-and-analysis)
+  - [Related 3D Processing Techniques](#related-3d-processing-techniques)
   - [Related Mocap and Volcap](#related-mocap-and-volcap)
   - [Related Dissertation / Thesis](#related-dissertation--thesis)
   - [Related Graphics History](#related-graphics-history)
@@ -28,7 +28,7 @@ A curated list of 3D drawing papers and related resources.
 - Bastien Wailly and Adrien Bousseau - <a href="https://www-sop.inria.fr/reves/Basilic/2019/WB19b/bwailly_JFIGRV_2019.pdf">Line Rendering of 3D Meshes for Data-Driven Sketch-Based Modeling</a> (2019). {<a href="https://gitlab.inria.fr/D3/contour-detect">code</a>}
 - Pierre Bénard et al - <a href="https://inria.hal.science/hal-00693453/en">Active Strokes: Coherent Line Stylization for Animated 3D Models</a> (2012). {<a href="https://github.com/benardp/ActiveStrokes">code</a>}
 
-### Drawing Techniques and Analysis
+### 3D Drawing Techniques and Analysis
 - Karran Pandey et al - <a href="https://dl.acm.org/doi/10.1145/3721238.3730724">Painting with 3D Gaussian Splat Brushes</a> (2025).
 - Zhi-Zheng Xiang et al - <a href="https://www.mdpi.com/2076-3417/15/12/6881">BrushGaussian: Brushstroke-Based Stylization for 3D Gaussian Splatting</a> (2025).
 - Hao Li et al - <a href="https://diglib.eg.org/server/api/core/bitstreams/f12e87c6-6eda-4376-b77a-71eb945ebd8a/content">An Inverse Procedural Modeling Pipeline for Stylized Brush Stroke Rendering</a> (2024).
@@ -47,7 +47,7 @@ A curated list of 3D drawing papers and related resources.
 - Scott Snibbe et al - <a href="https://www.researchgate.net/publication/228584605_Springs_and_constraints_for_3D_drawing">Springs and Constraints for 3D Drawing</a> (1998).
 - Michael Deering - <a href="https://dl.acm.org/doi/10.1145/210079.210087">Holosketch: A Virtual Reality Sketching/Animation Tool</a> (1995).
 
-### Related Processing Techniques
+### Related 3D Processing Techniques
 - Marco Domenico Cirillo et al - <a href="https://arxiv.org/abs/2003.13653">Vox2Vox 3D-GAN for Brain Tumour Segmentation</a> (2020). {<a href="https://github.com/mdciri/Vox2Vox">code</a>} [<a href="https://github.com/enochkan/vox2vox">code2</a>}
 - Phillip Isola et al - <a href="https://arxiv.org/abs/1611.07004">Image-to-Image Translation with Conditional Adversarial Networks</a> (2016).
 - Manuel Ruder et al - <a href="https://arxiv.org/abs/1604.08610">Artistic Style Transfer for Videos</a> (2016).
