@@ -3,6 +3,10 @@
 ## Overview
 A curated list of 3D drawing papers and related resources.
 
+## Contents
+- [Papers](#papers)
+- [Datasets](#datasets)
+ 
 ## Papers
 ### 3D Drawing Implementations
 - Richard Liu et al - <a href="https://arxiv.org/abs/2505.04813">WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction</a> (2025). {<a href="https://github.com/threedle/wir3d">code</a>}
