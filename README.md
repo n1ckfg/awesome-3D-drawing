@@ -6,6 +6,11 @@ A curated list of 3D drawing papers and related resources.
 ## Contents
 - [Papers](#papers)
   - [3D Drawing Implementations](#3d-drawing-implementations)
+  - [Drawing Techniques and Analysis](#drawing-techniques-and-analysis)
+  - [Related Processing Techniques](#related-processing-techniques)
+  - [Related Mocap and Volcap](#related-mocap-and-volcap)
+  - [Related Dissertation / Thesis](#related-dissertation--thesis)
+  - [Related Graphics History](#related-graphics-history)
 - [Datasets](#datasets)
  
 ## Papers
