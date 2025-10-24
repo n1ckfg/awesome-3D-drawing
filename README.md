@@ -5,6 +5,7 @@ A curated list of 3D drawing papers and related resources.
 
 ## Contents
 - [Papers](#papers)
+  - [3D Drawing Implementations](#3d-drawing-implementations)
 - [Datasets](#datasets)
  
 ## Papers
