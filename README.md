@@ -1,6 +1,5 @@
 # Awesome 3D Drawing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Overview
 A curated list of 3D drawing papers and related resources. XR work that uses 6DoF controllers, combined with ML work that processes and renders frame-by-frame volumetric representations, is yielding results of increasing interest to mainstream animation and VFX production.
 
 ## Contents
