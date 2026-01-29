@@ -72,7 +72,7 @@ A curated list of 3D drawing papers and related resources on using motion-tracke
 - Jennifer Jacobs - <a href="https://www.media.mit.edu/publications/dynamic-drawing-broadening-practice-and-participation-in-procedural-art/">Dynamic Drawing: Broadening Practice and Participation in Procedural Art</a> (2017).
 - Johannes Schmid - <a href="https://cgl.ethz.ch/Downloads/Publications/Dissertations/Schm12.pdf">Methods for Artistic Stylization in 3D Animation</a> (2012).
 - Alexander Kolliopoulos - <a href="https://www.dgp.toronto.edu/~alexk/segnpr.html">Image Segmentation for Stylized Non-Photorealistic Rendering and Animation</a> (2005).
-- Steven Schkolne - <a href="https://core.ac.uk/download/pdf/11811132.pdf">3D Interfaces for Spatial Construction</a> (2004).
+- Steven Schkolne - <a href="https://thesis.caltech.edu/2127/1/phd.pdf">3D Interfaces for Spatial Construction</a> (2004).
 - Aaron Hertzmann - <a href="https://cs.nyu.edu/media/publications/hertzmann_aaron.pdf">Algorithms for Rendering in Artistic Styles</a> (2001).
 - Golan Levin - <a href="https://acg.media.mit.edu/people/golan/thesis/thesis300.pdf">Painterly Interfaces for Audiovisual Performance</a> (2000).
 - Rebecca Allen - <a href="https://dspace.mit.edu/handle/1721.1/71031?show=full">Computer Rotoscoping with the Aid of Color Recognition</a> (1980).
