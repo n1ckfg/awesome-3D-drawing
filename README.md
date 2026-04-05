@@ -1,6 +1,6 @@
 # Awesome 3D Drawing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of 3D drawing papers and related resources on using motion-tracked controllers in XR to create art and animation, combined with ML processing and rendering of frame-by-frame volumetric representations. These approaches are yielding results of increasing interest to mainstream animation and VFX production.
+3D drawing papers and related resources on using motion-tracked controllers in XR to create art and animation. Combined with ML processing and rendering of frame-by-frame volumetric representations, these approaches are yielding results of increasing interest to mainstream animation and VFX production.
 
 ## Contents
 - [Papers](#papers)
