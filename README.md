@@ -16,10 +16,10 @@
 ### 3D Drawing Implementations
 - [WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction](https://arxiv.org/abs/2505.04813) WIR3D abstracts 3D shapes using sparse Bezier curves guided by CLIP activations and a neural SDF loss to represent geometry and visual features. - Richard Liu et al (2025). {[code](https://github.com/threedle/wir3d)}
 - [3Doodle: Compact Abstraction of Objects with 3D Strokes](https://arxiv.org/abs/2402.03690) 3Doodle generates view-consistent 2D sketches from multi-view images by optimizing 3D stroke primitives like Bezier curves and superquadric contours. - Changwoon Choi et al (2024). {[code](https://github.com/changwoonchoi/3Doodle)}
-- [Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline](https://doi.org/10.1145/3664221) No abstract provided. - Nick Fox-Gieg (2024). {[code](https://github.com/n1ckfg/latk_blender)}
+- [Lightning Artist Toolkit: A Hand-Drawn Volumetric Animation Pipeline](https://doi.org/10.1145/3664221) We propose a set of methods for freely integrating live-action volumetric video with hand-drawn volumetric animation, which our research develops as the Lightning Artist Toolkit (Latk)---a complete pipeline for hand-drawn volumetric animation, as far as we know the only open-source example of its kind. - Nick Fox-Gieg (2024). {[code](https://github.com/n1ckfg/latk_blender)}
 - [NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-View Images](https://arxiv.org/abs/2303.07653) Neural Edge Fields (NEF) reconstruct 3D parametric curves from multi-view images using a differentiable rendering-based optimization inspired by NeRF. - Yunfan Ye et al (2023). {[code](https://github.com/yunfan1202/NEF_code)}
 - [Learning to Generate Line Drawings That Convey Geometry and Semantics](https://arxiv.org/abs/2203.12691) This paper introduces an unpaired image-to-image translation method that uses geometry and semantic losses to generate line drawings from arbitrary photographs. - Caroline Chan et al (2022). {[code](https://github.com/carolineec/informative-drawings)}
-- [Towards Light-weight and Real-time Line Segment Detection](https://arxiv.org/pdf/2106.00186) No abstract provided. - Geonmo Gu et al (2022). {[code](https://github.com/navervision/mlsd)} {[code2](https://github.com/keijiro/MlsdBarracuda)}
+- [Towards Light-weight and Real-time Line Segment Detection](https://arxiv.org/pdf/2106.00186) Previous deep learning-based line segment detection (LSD) suffers from the immense model size and high computational cost for line prediction. - Geonmo Gu et al (2022). {[code](https://github.com/navervision/mlsd)} {[code2](https://github.com/keijiro/MlsdBarracuda)}
 - [GPU-Driven Real-Time Mesh Contour Vectorization](https://diglib.eg.org/bitstream/handle/10.2312/sr20221159/093-105.pdf) No abstract provided. - Wangziwei Jiang et al (2022). {[code](https://github.com/JiangWZW/Realtime-GPU-Contour-Curves-from-3D-Mesh)}
 - [CASSIE: Curve and Surface Sketching in Immersive Environments](https://www-sop.inria.fr/reves/Basilic/2021/YASBS21/CASSIE_author_version.pdf) No abstract provided. - Emilie Yu et al (2021). {[code](https://gitlab.inria.fr/D3/cassie)}
 - [Lifting Freehand Concept Sketches into 3D](https://repo-sam.inria.fr/d3/Lift3D/Gryaditskaya_SigAsia20_Lifting%20_Freehand_Concept_Sketches_into_3D.pdf) No abstract provided. - Yulia Gryaditskaya et al (2020). {[code](https://github.com/ygryadit/LiftConceptSketches3D)}
@@ -43,14 +43,14 @@
 - [A Neural Representation of Sketch Drawings](https://arxiv.org/abs/1704.03477) Sketch-rnn is a recurrent neural network capable of generating stroke-based vector drawings of common objects across hundreds of classes using conditional and unconditional generation frameworks. - David Ha and Douglas Eck (2017).
 - [Drawing on Air: Input Techniques for Controlled 3D Line Illustration](https://cs.brown.edu/research/pubs/pdfs/2007/Keefe-2007-DOA.pdf) No abstract provided. - Daniel Keefe et al (2007).
 - [Springs and Constraints for 3D Drawing](https://www.researchgate.net/publication/228584605_Springs_and_constraints_for_3D_drawing) No abstract provided. - Scott Snibbe et al (1998).
-- [Holosketch: A Virtual Reality Sketching/Animation Tool](https://dl.acm.org/doi/10.1145/210079.210087) No abstract provided. - Michael Deering (1995).
+- [Holosketch: A Virtual Reality Sketching/Animation Tool](https://dl.acm.org/doi/10.1145/210079.210087) This article describes HoloSketch, a virtual reality-based 3D geometry creation and manipulation tool. - Michael Deering (1995).
 
 ### Related 3D Processing Techniques
-- [Vox2Vox 3D-GAN for Brain Tumour Segmentation](https://arxiv.org/abs/2003.13653) No abstract provided. - Marco Domenico Cirillo et al (2020). {[code](https://github.com/mdciri/Vox2Vox)} {[code2](https://github.com/enochkan/vox2vox)}
-- [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) No abstract provided. - Phillip Isola et al (2016).
-- [Artistic Style Transfer for Videos](https://arxiv.org/abs/1604.08610) No abstract provided. - Manuel Ruder et al (2016).
+- [Vox2Vox 3D-GAN for Brain Tumour Segmentation](https://arxiv.org/abs/2003.13653) Gliomas are the most common primary brain malignancies, with different degrees of aggressiveness, variable prognosis and various heterogeneous histological sub-regions, i.e., peritumoral edema, necrotic core, enhancing and non-enhancing tumour core. - Marco Domenico Cirillo et al (2020). {[code](https://github.com/mdciri/Vox2Vox)} {[code2](https://github.com/enochkan/vox2vox)}
+- [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) We investigate conditional adversarial networks as a general-purpose solution to image-to-image translation problems. - Phillip Isola et al (2016).
+- [Artistic Style Transfer for Videos](https://arxiv.org/abs/1604.08610) In the past, manually re-drawing an image in a certain artistic style required a professional artist and a long time. - Manuel Ruder et al (2016).
 - [Fast and Robust Edge Extraction in Unorganized Point Clouds](https://ieeexplore.ieee.org/document/7371262) No abstract provided. - Dena Bazazian et al (2015). {[code](https://github.com/denabazazian/Edge_Extraction)}
-- [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) No abstract provided. - Leon Gatys et al (2015).
+- [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) This paper introduces a neural algorithm that uses Deep Neural Networks to separate and recombine the content and style of images, enabling the creation of high-quality artistic imagery. - Leon Gatys et al (2015).
 - [3D Colour Object Reconstruction Based on Growing Neural Gas](https://ieeexplore.ieee.org/document/6889546) No abstract provided. - Sergio Orts-Escolano et al (2014). {[code](https://github.com/rendchevi/growing-neural-gas)}
 - [A Fast Parallel Algorithm for Thinning Digital Patterns](https://dl.acm.org/doi/10.1145/357994.358023) No abstract provided. - Tongjie Zhang and Ching Yee Suen (1984). {[code](https://github.com/LingDong-/skeleton-tracing)}
 
@@ -76,7 +76,7 @@
 - [Painterly Interfaces for Audiovisual Performance](https://acg.media.mit.edu/people/golan/thesis/thesis300.pdf) No abstract provided. - Golan Levin (2000).
 - [Computer Rotoscoping with the Aid of Color Recognition](https://dspace.mit.edu/handle/1721.1/71031?show=full) This thesis investigates computer rotoscoping using optical videodiscs and color recognition to enable semi-automatic tracking and selective processing of objects in animation. - Rebecca Allen (1980).
 - [Interactive Computer-Mediated Animation](https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-061.pdf) No abstract provided. - Ronald Baecker (1969). 
-- [The Graphics Symbiosis System](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=osu1486740394721916) No abstract provided. - Thomas A. DeFanti (1973).
+- [The Graphics Symbiosis System](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=osu1486740394721916) This dissertation presents the Graphics Symbiosis System, an interactive mini-computer animation graphics language designed for habitability and extensibility. - Thomas A. DeFanti (1973).
 - [Sketchpad: A Man-Machine Graphical Communication System](https://dl.acm.org/doi/10.1145/1461551.1461591) No abstract provided. - Ivan Sutherland (1963).
 
 ### Related Graphics History
@@ -84,15 +84,15 @@
 - [SuperPaint: An Early Frame Buffer Graphics System](https://www.computer.org/csdl/magazine/an/2001/02/man2001020032/13rRUyft7wz) No abstract provided. - Richard Shoup (2001).
 - [Dinosaur Input Device](https://dl.acm.org/doi/10.1145/223904.223943) No abstract provided. - Brian Knep et al (1995).
 - [The CAVE: Audio Visual Experience Automatic Virtual Environment](https://dl.acm.org/doi/10.1145/129888.129892) No abstract provided. - Carolina Cruz-Neira et al (1992).
-- [A Color Animation System Based on the Multiplane Technique](https://dl.acm.org/doi/10.1145/965141.563871) No abstract provided. - Marc Levoy (1977).
-- [Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation](https://dl.acm.org/doi/10.1145/360349.360357) No abstract provided. - Nestor Burtnyk and Marceli Wein (1976).
+- [A Color Animation System Based on the Multiplane Technique](https://dl.acm.org/doi/10.1145/965141.563871) This paper describes an animation package currently under development at the Cornell Program of Computer Graphics. The basic algorithm employed is linear or non-linear interpolation between successive pairs of key frames. - Marc Levoy (1977).
+- [Interactive Skeleton Techniques for Enhancing Motion Dynamics in Key Frame Animation](https://dl.acm.org/doi/10.1145/360349.360357) A significant increase in the capability for controlling motion dynamics in key frame animation is achieved through skeleton control. - Nestor Burtnyk and Marceli Wein (1976).
 
 ## Datasets
 - TiltSet: A Collection of 3D Drawings - Nick Fox-Gieg (2024). {[files](https://doi.org/10.20383/103.0917)}
 - ABC-Draco: A GLTF Draco Conversion of the NYU ABC-Dataset - Nick Fox-Gieg (2024). {[files](https://doi.org/10.5683/SP3/QGGXYJ)}
 - [Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items](https://arxiv.org/abs/2204.11918) Google Scanned Objects is an open-source collection of over one thousand 3D-scanned household items designed to facilitate deep learning in robotics and computer vision simulations. - Laura Downs et al (2022). {[files](https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research)}
 - [Fine-Grained VR Sketching: Dataset and Insights](https://www.computer.org/csdl/proceedings-article/3dv/2021/268800b003/1zWE3NZ5Apq) No abstract provided. - Ling Luo et al (2021). {[files](https://cvssp.org/data/VRChairSketch/)}
-- [Creative Flow+ Dataset](https://www.cs.toronto.edu/creativeflow/files/2596.pdf) No abstract provided. - Maria Shugrina et al (2019). {[files](https://www.cs.toronto.edu/creativeflow/)}
+- [Creative Flow+ Dataset](https://www.cs.toronto.edu/creativeflow/files/2596.pdf) Creative Flow is a system that enables the creation of line-based character animations from a small number of keyframes by using a flow-based representation to interpolate lines. - Maria Shugrina et al (2019). {[files](https://www.cs.toronto.edu/creativeflow/)}
 - [ABC: A Big CAD Model Dataset for Geometric Deep Learning](https://arxiv.org/abs/1812.06216) The ABC-Dataset is a large-scale collection of one million CAD models featuring parametrized curves and surfaces intended for geometric deep learning research and benchmarking. - Sebastian Koch et al (2019). {[files](https://deep-geometry.github.io/abc-dataset/)}
 
 
